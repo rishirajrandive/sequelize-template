@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# ideal workspace.xml
+.idea
+.idea/workspace.xml
+.idea/runConfigurations/bin_www.xml
